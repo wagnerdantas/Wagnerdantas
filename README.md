@@ -31,8 +31,8 @@
 ----------------------------------------------------------------------------------
 
 
-[![Wagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerdantas)](https://github.com/anuraghazra/github-readme-stats)
+[![Wagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerdantas)](https://github.com/wagnerdantas/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerdantas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerdantas&layout=compact)](https://github.com/wagnerdantas/github-readme-stats)
 
 
