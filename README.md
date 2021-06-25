@@ -18,8 +18,8 @@
 ## Languagens and Tools
 
 
-![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerdantas&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerdantas&layout=compact)](https://github.com/wagnerdantas/github-readme-stats)
+[![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerdantas&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerdantas)](https://github.com/wagnerdantas/github-readme-stats)
 
 
 
