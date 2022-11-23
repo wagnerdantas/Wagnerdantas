@@ -1,13 +1,13 @@
 # Welcome, i'm Wagner!!
 
 
-:computer: I'm Full Stack Developer!
+:computer: I'm a quality analyst studying full stack software development!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently learning Java.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2023 Goals: Learn Java and Python and create new projects
 
 
 - Thanks for visiting.
