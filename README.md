@@ -3,9 +3,9 @@
 
 :computer: I'm a quality analyst studying full stack software development!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: From Brazil.
 
-:books: I’m currently learning Java.
+:books: Currently learning Java.
 
 :outbox_tray: 2023 Goals: Learn Java and Python and create new projects
 
