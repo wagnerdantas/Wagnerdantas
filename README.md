@@ -1,7 +1,7 @@
 # Welcome, i'm Wagner!!
 
 
-:computer: I'm a quality analyst studying full stack software development!
+:computer: I'm a quality analyst!
 
 :house_with_garden: From Brazil.
 
