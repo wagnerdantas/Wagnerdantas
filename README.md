@@ -5,7 +5,7 @@
 
 :house_with_garden: From Brazil.
 
-:books: Currently learning Java.
+:books: Currently learning Cypress, Junit, Java and Javascript.
 
 :outbox_tray: 2023 Goals: Learn Java and Python and create new projects
 
