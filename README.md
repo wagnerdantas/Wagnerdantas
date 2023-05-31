@@ -7,7 +7,7 @@
 
 :books: Currently learning Cypress, Junit, Java and Javascript.
 
-:outbox_tray: 2023 Goals: Learn Java and Python and create new projects
+:outbox_tray: 2023 Goals: Learn Java, Python and create new projects
 
 
 - Thanks for visiting.
