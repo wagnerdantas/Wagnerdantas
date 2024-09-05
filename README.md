@@ -5,7 +5,7 @@
 
 :house_with_garden: From Brazil.
 
-:books: Currently learning python and c#.
+:books: Currently learning python.
 
 - Thanks for visiting.
 
