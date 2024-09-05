@@ -12,10 +12,10 @@
 - Enjoy it!! o/
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide=prs&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wagner_dantas&show_icons=true&include_all_commits=true&count_private=true&hide=prs&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagner_dantas&layout=compact&theme=radical" />
 </a>
 
 ## Connect with me
